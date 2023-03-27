@@ -1,0 +1,162 @@
+abrir 100
+registrar Amber_Martins H40 981622
+registrar Antonia_Cardoso F20 268621
+alterar Amber_Martins D52
+remover Antonia_Cardoso
+alterar Amber_Martins A02
+alterar Amber_Martins O03
+alterar Amber_Martins N72
+alterar Amber_Martins A20
+alterar Amber_Martins N92
+registrar Jose_Martins A24 886806
+registrar Adriana_Martins N71 180849
+remover Adriana_Martins
+alterar Jose_Martins A20
+registrar Antonia_Ferreira A38 268621
+registrar Josefa_Almeida S01 609886
+remover Josefa_Almeida
+registrar Ana_Moraes C00 899438
+registrar Geraldo_Castro A22 245111
+remover Amber_Martins
+remover Antonia_Ferreira
+alterar Ana_Moraes O15
+alterar Geraldo_Castro C00
+registrar Vera_Machado R07 886806
+registrar Sumalha_Melo K28 406720
+remover Vera_Machado
+remover Sumalha_Melo
+registrar Juliana_Alves E29 180962
+remover Jose_Martins
+registrar Amber_Soares C03 180849
+registrar Geraldo_Ribeiro C91 482786
+registrar Josefa_Batista K26 307185
+remover Juliana_Alves
+remover Amber_Soares
+remover Geraldo_Castro
+alterar Josefa_Batista T21
+registrar Luciana_Santos A34 851844
+remover Ana_Moraes
+registrar Sandra_Teixeira K30 180849
+registrar Sandra_Viera A25 180962
+remover Geraldo_Ribeiro
+registrar Pedro_Miranda K26 406720
+remover Luciana_Santos
+registrar Jose_Silva T20 609886
+registrar Rita_Carvalho F21 180962
+alterar Pedro_Miranda I13
+registrar Adriana_Pereira A08 443937
+alterar Sandra_Teixeira R05
+remover Sandra_Viera
+remover Adriana_Pereira
+registrar Pedro_Pereira A39 157085
+alterar Jose_Silva N72
+remover Sandra_Teixeira
+registrar Luis_Almeida F21 328368
+alterar Rita_Carvalho A23
+alterar Luis_Almeida I11
+alterar Pedro_Pereira A30
+registrar Marcos_Almeida C90 925525
+alterar Josefa_Batista H53
+registrar Rosa_Almeida N92 319070
+remover Pedro_Miranda
+remover Luis_Almeida
+remover Rita_Carvalho
+registrar Jose_Almeida D50 160585
+alterar Josefa_Batista K26
+alterar Jose_Silva B37
+alterar Josefa_Batista T15
+registrar Vera_Rodrigues A30 406720
+alterar Josefa_Batista A21
+registrar Rita_Oliveira A24 884689
+alterar Vera_Rodrigues T16
+registrar Jose_Borges J12 751490
+alterar Jose_Borges E66
+alterar Rita_Oliveira D03
+alterar Rosa_Almeida F20
+alterar Vera_Rodrigues A39
+alterar Vera_Rodrigues C03
+alterar Josefa_Batista N91
+alterar Rita_Oliveira E66
+registrar Patricia_Batista F20 686592
+registrar Antonio_Pereira T20 899438
+alterar Jose_Silva A01
+registrar Francisca_Lima J41 319070
+registrar Geraldo_Moraes A00 925525
+registrar Paulo_Andrade N71 307185
+registrar Sonia_Castro O04 482786
+registrar Amber_Freitas E11 180849
+registrar Marcos_Barros F21 981622
+registrar Raimundo_Martins F33 686592
+registrar Joao_Barbosa A30 408687
+registrar Raimundo_Andrade J40 723311
+registrar Luis_Miranda A25 686592
+registrar Rita_Rocha B74 526996
+registrar Luiz_Melo E06 319070
+registrar Paulo_Rodrigues A09 609886
+registrar Juliana_Santan E66 326833
+registrar Amber_Viera E66 751490
+registrar Luis_Barros R06 319070
+registrar Fernando_Santos A30 319070
+registrar Antonia_Miranda J12 609886
+registrar Fabio_Nunes D51 884689
+registrar Sumalha_Santos A24 851844
+registrar Manoel_Cardoso E10 881282
+registrar Patricia_Dias B37 160585
+registrar Francisca_Batista J42 268621
+registrar Tereza_Machado S03 307185
+registrar Angela_Rodrigues H25 925525
+registrar Ana_Castro A51 723311
+registrar Jose_Dias A30 245111
+registrar Pedro_Batista A04 641969
+registrar Francisca_Viera A52 443937
+registrar Pedro_Teixeira N18 609886
+registrar Amber_Rodrigues K27 406720
+registrar Amber_Oliveira I15 268621
+registrar Amber_Dias B77 482786
+registrar Vera_Moraes R06 686592
+registrar Tereza_Lima A00 641969
+registrar Josefa_Santan N92 751490
+registrar Sumalha_Viera S01 408687
+registrar Fernando_Batista E29 328368
+registrar Paulo_Silva A17 482786
+registrar Raimundo_Moraes F33 328368
+registrar Sebastiao_Rodrigues N71 180849
+registrar Carlos_Almeida R05 851844
+registrar Jorge_Teixeira A50 307185
+registrar Marcelo_Alves B69 443937
+registrar Adriana_Dias A00 319070
+registrar Sumalha_Santan T15 268621
+registrar Juliana_Batista F33 751490
+registrar Maka_Nunes Q33 406720
+registrar Jose_Melo B39 180849
+registrar Luiz_Miranda A34 641969
+registrar Luis_Santos K26 641969
+registrar Sandra_Barbosa A52 686592
+registrar Josefa_Barros B77 406720
+registrar Luiz_Rocha C00 881282
+registrar Fernando_Carvalho C00 157085
+registrar Vera_Andrade Q32 245111
+registrar Roberto_Cardoso F10 609886
+registrar Sumalha_Miranda D51 641969
+registrar Marcos_Carvalho H16 622426
+registrar Amber_Barbosa H53 881282
+registrar Juliana_Lima B37 326833
+registrar Marcia_Lima Q31 981622
+registrar Tereza_Dias C88 408687
+registrar Jose_Gomes I13 157085
+registrar Francisco_Martins J41 899438
+registrar Angela_Machado J09 180849
+registrar Roberto_Martins F21 180962
+registrar Francisca_Carvalho B38 160585
+registrar Joao_Alves A52 686592
+registrar Jose_Santan I13 622426
+registrar Antonia_Martins N17 180962
+registrar Angela_Lima J10 886806
+registrar Roberto_Teixeira N18 293623
+registrar Rosa_Melo C92 180962
+registrar Jose_Lima A04 482786
+registrar Antonia_Melo B38 723311
+registrar Sandra_Souza A27 899438
+registrar Josefa_Silva H17 884689
+registrar Ana_Batista H25 609886
+fechar

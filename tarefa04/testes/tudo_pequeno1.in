@@ -1,0 +1,14 @@
+INSERIR 0 ' SECOMP'
+
+INSERIR 7 ' deste ano.'
+
+DESTACAR 1 4
+
+INSERIR 0 'Nao perca o'
+
+DESTACAR 15 18
+
+DESTACAR 25 28
+
+MOSTRAR
+

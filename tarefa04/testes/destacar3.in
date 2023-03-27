@@ -1,0 +1,14 @@
+INSERIR 0 ', mas elas foram adicionadas em momentos diferentes.'
+
+INSERIR 0 ' com CHOCOLATE'
+
+DESTACAR 1 14
+
+INSERIR 0 'Este texto nao esta em negrito, as proximas palavras estao, veja: '
+
+INSERIR 66 'BANANA'
+
+DESTACAR 66 73
+
+MOSTRAR
+

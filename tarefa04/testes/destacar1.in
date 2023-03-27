@@ -1,0 +1,10 @@
+INSERIR 0 'texto normal.'
+
+INSERIR 0 'Este texto esta em negrito '
+
+DESTACAR 5 27
+
+INSERIR 27 'e este '
+
+MOSTRAR
+

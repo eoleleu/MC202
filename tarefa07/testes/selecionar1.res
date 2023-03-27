@@ -1,0 +1,10 @@
+lemon: 209
+lemon: 209
+strawberry: 239
+lemon: 209
+lemon: 209
+cucumber: 217
+cucumber: 217
+cucumber: 217
+peach: 221
+cucumber: 217

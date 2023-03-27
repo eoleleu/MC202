@@ -1,0 +1,27 @@
+11
+Amparo 73145
+Atibaia 145378
+Braganca 172346
+Campinas 1223237
+Capivari 56973
+Holambra 15605
+Limeira 310783
+Piracicaba 410275
+Socorro 41690
+Sumare 289875
+Tiete 42946
+14
+Amparo Holambra 42
+Amparo Socorro 41
+Braganca Amparo 45
+Braganca Atibaia 25
+Campinas Amparo 68
+Campinas Atibaia 60
+Campinas Braganca 65
+Campinas Capivari 53
+Campinas Sumare 31
+Capivari Piracicaba 39
+Capivari Tiete 28
+Sumare Holambra 61
+Sumare Limeira 52
+Sumare Piracicaba 49

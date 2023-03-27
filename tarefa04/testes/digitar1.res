@@ -1,0 +1,2 @@
+NORMAL 'Inserir no inicio.'
+

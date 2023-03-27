@@ -1,0 +1,152 @@
+abrir 100
+registrar Vera_Souza A04 751490
+registrar Tereza_Viera S03 180962
+registrar Antonia_Dias B39 245111
+registrar Fabio_Freitas K25 899438
+registrar Luiz_Ferreira N91 641969
+registrar Vera_Santan A01 884689
+registrar Pedro_Ribeiro T21 641969
+registrar Carlos_Rodrigues T16 443937
+registrar Fabio_Machado A04 886806
+registrar Sonia_Barros A00 686592
+registrar Pedro_Gomes J12 723311
+registrar Jose_Castro A39 482786
+registrar Maka_Lima D51 443937
+registrar Jorge_Lima F20 160585
+registrar Sebastiao_Souza E10 482786
+registrar Fabio_Campos F21 268621
+registrar Rosa_Santos B38 925525
+registrar Sandra_Campos K28 899438
+registrar Jose_Santan T16 319045
+registrar Adriana_Miranda E11 526996
+registrar Joao_Pereira K27 981622
+registrar Josefa_Almeida O04 443937
+registrar Josefa_Teixeira B39 319045
+registrar Marcos_Castro A39 293623
+registrar Sonia_Batista S88 307185
+registrar Tereza_Melo E11 886806
+registrar Ana_Borges B41 319045
+registrar Juliana_Freitas F33 925525
+registrar Luis_Lima J40 307185
+registrar Pedro_Teixeira Q30 326833
+registrar Fernando_Borges H25 641969
+registrar Sandra_Almeida I74 180849
+registrar Andre_Teixeira T16 482786
+registrar Fernando_Santan K25 406720
+registrar Fabio_Ribeiro H54 180849
+registrar Antonio_Rodrigues R07 326833
+registrar Juliana_Gomes J45 319045
+registrar Carlos_Castro F20 641969
+registrar Joao_Freitas I13 326833
+registrar Francisco_Dias T22 884689
+registrar Tereza_Barros E66 245111
+registrar Antonia_Silva H60 293623
+registrar Raimundo_Ferreira H53 319070
+registrar Marcos_Carvalho Q32 326833
+registrar Josefa_Soares A51 609886
+registrar Andre_Viera F10 899438
+registrar Sandra_Melo A39 268621
+registrar Francisca_Machado F10 925525
+registrar Paulo_Soares C03 328368
+registrar Luiz_Castro R06 326833
+registrar Fernando_Melo A50 884689
+registrar Jorge_Gomes C03 526996
+registrar Rosa_Pereira Q31 180962
+registrar Carlos_Nunes A33 319070
+registrar Luiz_Cardoso B39 160585
+registrar Sebastiao_Rodrigues B77 406720
+registrar Pedro_Soares K27 319070
+registrar Andre_Campos N18 981622
+registrar Amber_Campos F10 609886
+registrar Juliana_Campos H10 526996
+registrar Vera_Dias E10 526996
+registrar Patricia_Barros A00 609886
+registrar Maria_Rocha A50 180962
+registrar Jose_Pereira H53 443937
+registrar Antonia_Carvalho F20 884689
+registrar Ana_Nunes N91 245111
+registrar Juliana_Miranda A00 245111
+registrar Juliana_Silva B40 899438
+registrar Carlos_Dias I74 881282
+registrar Amber_Andrade S01 482786
+registrar Jorge_Rocha C03 884689
+registrar Josefa_Barros E29 723311
+registrar Sandra_Barros A22 408687
+registrar Antonia_Moraes H60 981622
+registrar Maka_Cardoso Q31 925525
+registrar Manoel_Ribeiro A15 408687
+registrar Francisco_Gomes F20 884689
+registrar Jose_Santos B39 925525
+registrar Antonia_Castro Q33 609886
+registrar Jorge_Viera A17 723311
+registrar Marcelo_Rocha R51 609886
+registrar Tereza_Martins F21 319070
+registrar Francisca_Teixeira T20 443937
+registrar Marcia_Borges F20 899438
+registrar Amber_Machado A04 160585
+registrar Sandra_Santan O15 157085
+registrar Marcos_Ferreira J41 408687
+registrar Jose_Silva Q31 245111
+registrar Maria_Campos F21 925525
+registrar Luiz_Souza E66 160585
+registrar Marcia_Barros O15 180849
+registrar Josefa_Borges T22 245111
+registrar Paulo_Freitas F33 981622
+registrar Marcos_Rocha E28 925525
+registrar Joao_Barbosa A30 328368
+registrar Sumalha_Moraes E29 751490
+registrar Fernando_Barros O15 981622
+registrar Patricia_Ribeiro R07 180962
+registrar Marcelo_Rodrigues B42 482786
+registrar Maria_Gomes T21 160585
+alterar Patricia_Barros K27
+remover Marcelo_Rodrigues
+alterar Maria_Campos N18
+alterar Maria_Campos R05
+alterar Sumalha_Moraes A25
+remover Marcos_Castro
+remover Patricia_Ribeiro
+alterar Tereza_Viera H10
+remover Tereza_Viera
+remover Amber_Machado
+alterar Paulo_Freitas K29
+remover Marcia_Barros
+remover Sandra_Santan
+remover Amber_Campos
+remover Adriana_Miranda
+remover Antonia_Castro
+remover Francisco_Dias
+remover Sandra_Almeida
+remover Josefa_Almeida
+alterar Luiz_Souza B68
+remover Antonia_Moraes
+remover Maria_Gomes
+remover Fabio_Machado
+alterar Sebastiao_Souza A03
+alterar Juliana_Campos F21
+remover Francisca_Teixeira
+alterar Rosa_Santos B42
+remover Jose_Castro
+remover Marcia_Borges
+remover Marcos_Rocha
+alterar Juliana_Miranda A30
+alterar Antonia_Silva I11
+alterar Luiz_Cardoso A17
+alterar Paulo_Soares A23
+alterar Rosa_Pereira B58
+alterar Juliana_Gomes B77
+alterar Marcos_Ferreira S88
+alterar Antonia_Dias A00
+alterar Juliana_Gomes T15
+alterar Juliana_Campos A06
+alterar Josefa_Soares A08
+alterar Sandra_Barros J42
+alterar Luiz_Souza K28
+alterar Sebastiao_Souza N17
+alterar Antonio_Rodrigues N18
+alterar Jorge_Lima A02
+alterar Francisca_Machado C92
+alterar Joao_Freitas J40
+alterar Luis_Lima N72
+alterar Amber_Andrade T21
+fechar

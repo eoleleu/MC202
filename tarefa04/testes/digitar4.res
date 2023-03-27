@@ -1,0 +1,2 @@
+NORMAL 'O Brasil eh um pais rico em seu folclore, dentre os mais conhecidos como as personagens cuca, curupira e boto cor de rosa, nos tambem temos: primeiro tira ela para depois tirar o resto, os empregados vao poder negociar com o patrao, o preco das passagens aereas vao cair com a cobranca das bagagens, privatiza que melhora, as reformas trabalhista e da previdencia vao gerar mais empregos e um classico recente, o tratamento precoce funciona.'
+

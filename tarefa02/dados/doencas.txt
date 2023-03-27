@@ -1,0 +1,117 @@
+116
+A00 Colera
+A01 Febres tifoide e paratifoide
+A02 Outras infeccoes por Salmonella
+A03 Shiguelose
+A04 Outras infeccoes intestinais bacterianas
+A06 Amebiase
+A07 Outras doencas intestinais por protozoarios
+A08 Infeccoes intestinais virais, outras e as nao especificadas
+A09 Diarreia e gastroenterite de origem infecciosa presumivel
+A15 Tuberculose respiratoria, com confirmacao bacteriologica e histologica
+A17 Tuberculose do sistema nervoso
+A20 Peste
+A21 Tularemia
+A22 Carbunculo
+A23 Brucelose
+A24 Mormo e melioidose
+A25 Febres transmitidas por mordedura de rato
+A27 Leptospirose
+A30 Hanseniase
+A33 Tetano do recem-nascido
+A34 Tetano obstetrico
+A36 Difteria
+A37 Coqueluche
+A38 Escarlatina
+A39 Infeccao meningogocica
+A50 Sifilis congenita
+A51 Sifilis precoce
+A52 Sifilis tardia
+B37 Candidiase
+B38 Coccidioidomicose
+B39 Histoplasmose
+B40 Blastomicose
+B41 Paracoccidioidomicose
+B42 Esporotricose
+B57 Doenca de Chagas
+B58 Toxoplasmose
+B68 Infestacao por Taenia
+B69 Cisticercose
+B74 Filariose
+B77 Ascaridiase
+C00 Neoplasia maligna do labio
+C01 Neoplasia maligna da base da lingua
+C03 Neoplasia maligna da gengiva
+C88 Doencas imunoproliferativas malignas
+C90 Mieloma multiplo e neoplasias malignas de plasmocitos
+C91 Leucemia linfoide
+C92 Leucemia mieloide
+D03 Melanoma in situ
+D50 Anemia por deficiencia de ferro
+D51 Anemia por deficiencia de vitamina B12
+D52 Anemia por deficiencia de folato
+E06 Tireoidite
+E10 Diabetes mellitus insulino-dependente
+E11 Diabetes mellitus nao-insulino-dependente
+E28 Disfuncao ovariana
+E29 Disfuncao testicular
+E66 Obesidade
+F10 Transtornos mentais e comportamentais devidos ao uso de alcool
+F20 Esquizofrenia
+F21 Transtorno esquizotipico
+F33 Transtorno depressivo recorrente
+F34 Transtornos de humor [afetivos] persistentes
+H10 Conjuntivite
+H16 Ceratite
+H17 Cicatrizes e opacidades da cornea
+H25 Catarata senil
+H40 Glaucoma
+H53 Disturbios visuais
+H54 Cegueira e visao subnormal
+H60 Otite externa
+I11 Doenca cardiaca hipertensiva
+I12 Doenca renal hipertensiva
+I13 Doenca cardiaca e renal hipertensiva
+I15 Hipertensao secundaria
+I74 Embolia e trombose arteriais
+J09 Influenza [gripe] devida a virus identificado da gripe aviaria
+J10 Influenza devida a outro virus da influenza [gripe] identificado
+J11 Influenza [gripe] devida a virus nao identificado
+J12 Pneumonia viral nao classificada em outra parte
+J40 Bronquite nao especificada como aguda ou cronica
+J41 Bronquite cronica simples e a mucopurulenta
+J42 Bronquite cronica nao especificada
+J45 Asma
+K25 ulcera gastrica
+K26 ulcera duodenal
+K27 ulcera peptica de localizacao nao especificada
+K28 ulcera gastrojejunal
+K29 Gastrite e duodenite
+K30 Dispepsia
+N17 Insuficiencia renal aguda
+N18 Insuficiencia renal cronica
+N70 Salpingite e ooforite
+N71 Doenca inflamatoria do utero, exceto o colo
+N72 Doenca inflamatoria do colo do utero
+N91 Menstruacao ausente, escassa e pouco frequente
+N92 Menstruacao excessiva, frequente e irregular
+O03 Aborto espontaneo
+O04 Aborto por razoes medicas e legais
+O15 Eclampsia
+Q30 Malformacao congenita do nariz
+Q31 Malformacoes congenitas da laringe
+Q32 Malformacoes congenitas da traqueia e dos bronquios
+Q33 Malformacoes congenitas do pulmao
+R05 Tosse
+R06 Anormalidades da respiracao
+R07 Dor de garganta e no peito
+R51 Cefaleia
+S01 Ferimento da cabeca
+S02 Fratura do cranio e dos ossos da face
+S03 Luxacao, entorse ou distensao das articulacoes e dos ligamentos da cabeca
+S88 Amputacao traumatica da perna
+T15 Corpo estranho na parte externa do olho
+T16 Corpo estranho no ouvido
+T20 Queimadura e corrosao da cabeca e pescoco
+T21 Queimadura e corrosao do tronco
+T22 Queimadura e corrosao do ombro e membro superior, exceto punho e mao

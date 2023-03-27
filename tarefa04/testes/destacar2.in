@@ -1,0 +1,12 @@
+INSERIR 0 ' porem este esta e a palavra '
+
+INSERIR 29 ' deve ser inserida em negrito.'
+
+INSERIR 0 'Este texto nao esta em negrito,'
+
+DESTACAR 32 90
+
+INSERIR 60 'BANANA'
+
+MOSTRAR
+
